@@ -179,7 +179,7 @@ img {
 }
 
 .text {
-  align-items: center;
+  margin: auto;
   max-height: 25vh;
   overflow: scroll;
 }
