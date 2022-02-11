@@ -116,7 +116,7 @@ nav a:focus{
 /* Requirements 6-10 here: */
 
 .intro{
-  background-image: url("images/header.jpg");
+  background-image: url("../images/header.jpg");
   background-color: #707070;
   /*OR:  #DDDDDD, #858585, #707070, or #B3B3B3*/
   min-height: 400px;
