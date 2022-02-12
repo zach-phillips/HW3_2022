@@ -179,9 +179,10 @@ img {
 }
 
 .text {
-  margin: auto;
+
   max-height: 25vh;
   overflow: scroll;
+  align-self: center;
 }
 
 @media screen and (min-width: 700px){
