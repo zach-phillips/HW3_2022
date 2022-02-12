@@ -95,8 +95,8 @@ a.skip{
   transition: left 1s ease-out;
   z-index: 1;
   /* Requirement 3 code here*/
-  position: relative;
-  right: 500px; /*counter intuitive*/
+  position: absolute;
+  left: -500px; /*counter intuitive*/
 }
 
 
